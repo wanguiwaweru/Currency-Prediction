@@ -39,7 +39,6 @@ jsonschema==4.16.0
 kiwisolver==1.4.4
 lxml==4.9.1
 MarkupSafe==2.1.1
-matplotlib==3.7.1
 matplotlib-inline==0.1.6
 mindsdb-sdk==1.0.2
 mindsdb-sql==0.5.1
