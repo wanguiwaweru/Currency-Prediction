@@ -44,7 +44,6 @@ mindsdb-sdk==1.0.2
 mindsdb-sql==0.5.1
 multitasking==0.0.11
 nest-asyncio==1.5.6
-numpy==1.23.3
 packaging==21.3
 pandas==1.3.5
 parso==0.8.3
