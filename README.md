@@ -14,9 +14,7 @@ A machine learning system for forecasting the exchange rate between the US Dolla
 
 ## Video Demo
 
-<video width="350" height="250" controls>
-  <source src="https://youtu.be/RlZi3psybnM" type="video/mp4">
-</video>
+[![IMAGE ALT TEXT](./sgd.jpg)](https://youtu.be/RlZi3psybnM "Exchange Rate")
 
 ## Getting Started 
 
